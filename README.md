@@ -205,27 +205,6 @@ moneytracker/
 - Observer disconnection on unmount
 - Optimized re-renders with React hooks
 
-## 🤝 Contributing
-
-We welcome contributions! Here's how to get started:
-
-1. **Fork the repository**
-2. **Create a feature branch**
-   ```bash
-   git checkout -b feature/amazing-feature
-   ```
-3. **Make your changes**
-4. **Add tests** (if applicable)
-5. **Commit your changes**
-   ```bash
-   git commit -m 'Add amazing feature'
-   ```
-6. **Push to the branch**
-   ```bash
-   git push origin feature/amazing-feature
-   ```
-7. **Open a Pull Request**
-
 ### **Development Guidelines**
 - Follow TypeScript best practices
 - Use Tailwind CSS for styling
