@@ -2,8 +2,6 @@
 
 A modern, feature-rich personal finance management application built with **Next.js 15**, **TypeScript**, and **Tailwind CSS**. Track expenses, manage budgets, and gain AI-powered insights into your spending patterns with real-time analytics and beautiful visualizations.
 
-![MoneyTracker Dashboard](https://via.placeholder.com/800x400/1F2937/FFFFFF?text=MoneyTracker+Dashboard)
-
 ## ✨ Features
 
 ### 🎯 **Core Functionality**
